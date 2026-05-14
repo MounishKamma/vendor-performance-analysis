@@ -33,8 +33,6 @@ View the live dashboard here:
 
 [Vendor Performance Analysis Dashboard](https://public.tableau.com/views/VendorPerformanceAnalysis_17787948685100/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
----
-
 ## Dashboard Features
 
 - Sales vs Purchases trend analysis
@@ -43,16 +41,12 @@ View the live dashboard here:
 - Business KPI tracking
 - Executive-level analytics dashboard
 
----
-
 ## Business Insights
 
 - CONSTELLATION BRANDS demonstrated the strongest vendor performance across profitability and purchasing metrics.
 - Seasonal demand trends showed peak sales activity during December.
 - Vendor purchasing analysis identified inventory optimization opportunities.
 - Dashboard KPIs improved visibility into sales, purchasing, and profitability performance.
-
----
 
 ## Repository
 
